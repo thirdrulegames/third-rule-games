@@ -10,7 +10,7 @@ h1 {
 p {
   color: white;
   text-align: center;
-  font-family: "Papyrus";
+  font-family: "Papyrus", verdana;
   font-size: 20px;
 
 }
